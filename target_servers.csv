@@ -1,0 +1,32 @@
+Country;Server
+Australia;ftp.au.debian.org
+Austria;ftp.at.debian.org
+Belgium;ftp.be.debian.org
+Belarus;ftp.by.debian.org
+Brasil;ftp.br.debian.org
+Bulgaria;ftp.bg.debian.org
+China;ftp.cn.debian.org
+Croatia;ftp.hr.debian.org
+Denmark;ftp.dk.debian.org
+Finland;ftp.fi.debian.org
+France;ftp.fr.debian.org
+Germany;ftp.de.debian.org
+Japan;ftp.jp.debian.org
+Hong Kong	;ftp.hk.debian.org
+Iceland;ftp.is.debian.org
+Italy;ftp.it.debian.org
+Lithuania;ftp.lt.debian.org
+New Caledonia;ftp.nc.debian.org
+Netherlands;ftp.nl.debian.org
+Poland;ftp.pl.debian.org
+Portugal;ftp.pt.debian.org
+United Kingdom;ftp.uk.debian.org
+Czech Republic;ftp.cz.debian.org
+Russia;ftp.ru.debian.org
+Slovakia;ftp.sk.debian.org
+Slovenia;ftp.si.debian.org
+Spain;ftp.es.debian.org
+United States of America;ftp.us.debian.org
+Sweden;ftp.se.debian.org
+Switzerland;ftp.ch.debian.org
+Hungary;ftp.hu.debian.org
